@@ -1,0 +1,32 @@
+{
+  "data" : [
+    {
+      "id_sektor": 1,
+      "sektor": "Pendidikan",
+      "totalSampah": 5000,
+      "sampahDiolah": 5000,
+      "sampahDibuang": 5000
+    },
+    {
+      "id_sektor": 2,
+      "sektor": "Bisnis",
+      "totalSampah": 5000,
+      "sampahDiolah": 5000,
+      "sampahDibuang": 5000
+    },
+    {
+      "id_sektor": 3,
+      "sektor": "Pasar",
+      "totalSampah": 5000,
+      "sampahDiolah": 5000,
+      "sampahDibuang": 5000
+    },
+    {
+      "id_sektor": 4,
+      "sektor": "OPD",
+      "totalSampah": 5000,
+      "sampahDiolah": 5000,
+      "sampahDibuang": 5000
+    }
+  ]
+}

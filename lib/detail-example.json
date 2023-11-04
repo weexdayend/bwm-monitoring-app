@@ -1,0 +1,24 @@
+{
+  "data" : [
+    {
+      "id_tps": 1,
+      "id_subsektor": 1,
+      "nama_tps": "SD SURUUR",
+      "alamat_tps": "JL.HEGARMANAH TENGAH",
+      "penanggun_jawab": "Dinas Pendidikan",
+      "totalSampah": 5000,
+      "sampahDiolah": 5000,
+      "sampahDibuang": 5000
+    },
+    {
+      "id_tps": 2,
+      "id_subsektor": 1,
+      "nama_tps": "SMP SURUUR",
+      "alamat_tps": "JL.HEGARMANAH TENGAH",
+      "penanggun_jawab": "Dinas Pendidikan",
+      "totalSampah": 5000,
+      "sampahDiolah": 5000,
+      "sampahDibuang": 5000
+    }
+  ]
+}

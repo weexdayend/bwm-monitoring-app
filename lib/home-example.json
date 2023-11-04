@@ -1,0 +1,44 @@
+{
+  "data" : {
+    "pengolahan": [
+      {
+        "klasifikasi": "Daur Ulang",
+        "data": [
+          {
+            "jenis": "Organik",
+            "tipe": "Pupuk Kompos",
+            "total": 5000
+          },
+          {
+            "jenis": "Organik",
+            "tipe": "Pakan Maggot",
+            "total": 5000
+          },
+          {
+            "jenis": "Organik",
+            "tipe": "Loseda",
+            "total": 5000
+          },
+          {
+            "jenis": "Anorganik",
+            "tipe": "Bank Sampah",
+            "total": 5000
+          }
+        ]
+      },
+      {
+        "klasifikasi": "Buang",
+        "data": [
+          {
+            "jenis": "Residu",
+            "tipe": "Buang",
+            "total": 5000
+          }
+        ]
+      }
+    ],
+    "totalSampah": 1884,
+    "sampahDiolah": 1112,
+    "sampahDibuang": 714
+  }
+}
